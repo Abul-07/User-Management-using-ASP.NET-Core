@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug\\net7.0\\runtimes",
+    "\\bin\\Release\\net7.0",
+    "\\Controllers",
+    "\\obj"
+  ],
+  "SelectedNode": "\\Controllers\\AuthController.cs",
+  "PreviewInSolutionExplorer": false
+}
